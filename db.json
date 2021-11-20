@@ -7,53 +7,39 @@
    },
    {
       "id": 2,
-      "name": "Kvothe2",
-      "description": "Es prodigiosamente inteligente, poseyendo una memoria fotográfica y grandes capacidades de relación de ideas. Es poderosamente intuitivo, y posee un espíritu fogoso y orgulloso."
+      "name": "Auri",
+      "description": "Es una chica joven con el pelo rubio y fino. El hecho de que lo tenga tan largo hace que flote alrededor de su cabeza como si fuera una nube. En cuanto a su edad, es descrita como unos años mayor que Kvothe. Es muy maniática con respecto a su vida personal y sobre todo con temas de limpieza y decoro, como demuestra al rechazar prendas de ropa de segunda mano que Kvothe le regala."
    },
    {
       "id": 3,
-      "name": "Kvothe3",
-      "description": "Es prodigiosamente inteligente, poseyendo una memoria fotográfica y grandes capacidades de relación de ideas. Es poderosamente intuitivo, y posee un espíritu fogoso y orgulloso."
+      "name": "Felurian",
+      "description": "Esencialmente se considera a Felurian la mujer más bella y sexualmente insaciable del mundo conocido. Es descrita con una piel suave y brillante bajo la luz de la luna y unos largos cabellos negros como la noche. Su sombra de ojos parece tener patrones similares a los de las alas de una mariposa."
    },
    {
       "id": 4,
-      "name": "Kvothe4",
-      "description": "Es prodigiosamente inteligente, poseyendo una memoria fotográfica y grandes capacidades de relación de ideas. Es poderosamente intuitivo, y posee un espíritu fogoso y orgulloso."
+      "name": "Lanre",
+      "description": "Según las leyendas, Lanre estaba enamorado de su esposa, una hermosa nominadora llamada Lyra, y en un momento de las batallas, Lanre muere luchando contra una espantosa bestia, si bien pone fin a la batalla, ganándola."
    },
    {
       "id": 5,
-      "name": "Kvothe5",
-      "description": "Es prodigiosamente inteligente, poseyendo una memoria fotográfica y grandes capacidades de relación de ideas. Es poderosamente intuitivo, y posee un espíritu fogoso y orgulloso."
+      "name": "Los Chandrian",
+      "description": "Los Chandrian son un grupo de siete seres misteriosos liderados por Lord Haliax, quien, según la historia contada por Skarpi en Tarbean, puede haber sido el legendario héroe Lanre. La palabra "Chandrian" viene del lenguaje témico: Chaen-dian significa "Siete de Ellos". Los Adem los llaman Rhinta."
    },
    {
       "id": 6,
-      "name": "Kvothe6",
-      "description": "Es prodigiosamente inteligente, poseyendo una memoria fotográfica y grandes capacidades de relación de ideas. Es poderosamente intuitivo, y posee un espíritu fogoso y orgulloso."
+      "name": "Elodin",
+      "description": "Elodin es uno de los nueve maestros de la Universidad, encargado de las cátedras relacionadas con la Nominación, como las Matemáticas Improbables. Es el maestro más joven, contando con no más de treinta años en el momento de la narración de Kvothe."
    },
    {
       "id": 7,
-      "name": "Kvothe7",
-      "description": "Es prodigiosamente inteligente, poseyendo una memoria fotográfica y grandes capacidades de relación de ideas. Es poderosamente intuitivo, y posee un espíritu fogoso y orgulloso."
+      "name": "Bast",
+      "description": "Bast es el discípulo y asistente de Kvothe, que vive con él en la posada Roca de Guía. Es descrito como un joven hermoso, de cabellos negros y ojos azules. En realidad, es un Fata, por lo que oculta su verdadera apariencia."
    },
    {
       "id": 8,
-      "name": "Kvothe8",
-      "description": "Es prodigiosamente inteligente, poseyendo una memoria fotográfica y grandes capacidades de relación de ideas. Es poderosamente intuitivo, y posee un espíritu fogoso y orgulloso."
-   },
-   {
-      "id": 9,
-      "name": "Kvothe9",
-      "description": "Es prodigiosamente inteligente, poseyendo una memoria fotográfica y grandes capacidades de relación de ideas. Es poderosamente intuitivo, y posee un espíritu fogoso y orgulloso."
-   },
-   {
-      "id": 10,
-      "name": "Kvothe10",
-      "description": "Es prodigiosamente inteligente, poseyendo una memoria fotográfica y grandes capacidades de relación de ideas. Es poderosamente intuitivo, y posee un espíritu fogoso y orgulloso."
+      "name": "Haliax",
+      "description": "Es un ser oscuro, poderoso, y aparentemente inmortal cuyo poder protege a los demás Chandrian de aquellos que pueden dañarlos: concretamente los Amyr, los Sithe y "los Cantantes"."
    }
 ]
-
-
-
-
 
 }
